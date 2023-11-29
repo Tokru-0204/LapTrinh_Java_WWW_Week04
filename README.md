@@ -3,6 +3,7 @@
 - XML-Based Configuration
 - Ánh xạ các entity(ERD Diagram)
   - Spring Beans scope
+  
   ![img.png](img%2Fimg.png)
   - XML-Based Configuration
   ![img_1.png](img%2Fimg_1.png)
